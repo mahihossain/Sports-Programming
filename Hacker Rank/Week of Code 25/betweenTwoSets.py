@@ -10,10 +10,6 @@ b = [int(b_temp) for b_temp in input().strip().split(' ')]
 
 counter = 0
 flag = False
-#if min(b)%2 == 0:
-    #numberList = [int(n) for n in range(2,min(b)+1,2)]
-#else:
-    #numberList = [int(n) for n in range(3,min(b)+1,2)]
 
 numberList = [int(n) for n in range(1,min(b)+1)]
 
