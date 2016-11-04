@@ -1,2 +1,2 @@
 # Sports-Programming
-Codes of sports programming....File name represents problem name
+Codes of sports programming....File name represents problem name.
