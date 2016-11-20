@@ -10,5 +10,4 @@ while len(sticks) != 0:
     output.append(len(sticks))
     sticks = [x for x in sticks if x != 0]
 
-for i in range(len(output)):
-    print(output[i],end='\n')
+[print(x,end='\n') for x in output]
