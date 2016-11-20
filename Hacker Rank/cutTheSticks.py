@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-N = int(input().strip())
+input()
 sticks = [int(a) for a in input().strip().split(' ')]
 output = []
 
